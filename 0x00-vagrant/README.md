@@ -1,0 +1,1 @@
+This folder contains the out of the command uname when it is executed without any option
